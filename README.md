@@ -55,13 +55,13 @@ ___
 * Column is the ECG data divided by Hz for 5 minutes.
 
 
-* In this graph, the x-axis represents the number of samples and the y-axis represents the amplitude of the ECG signal
-
-
 <p align="center">
   <img width="755" alt="image (2)" src="https://github.com/nijnuenna/ECG_Sleep_Analysis_/assets/139520513/6eff3073-8c7e-459a-b194-f4ce87a71f63">
 
 </p>
+
+
+* In this graph, the x-axis represents the number of samples and the y-axis represents the amplitude of the ECG signal
 
 
 <p align="center">
