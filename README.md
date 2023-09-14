@@ -29,7 +29,9 @@ Seven participants (male aged 25-32) in this study agreed to control their intak
 ___
 
 <p align="center">
-  <img src="https://github.com/nijnuenna/ECG_Sleep_Analysis_remake/assets/139520513/1c25cea6-26b0-4242-8fc8-d3f4375f67e7">
+ 
+  ![캡처](https://github.com/nijnuenna/ECG_Sleep_Analysis_/assets/139520513/5548f22d-5fb0-47d3-8b6f-78e5bcbfc24c)
+
 </p>
 
 
@@ -57,12 +59,14 @@ ___
 
 
 <p align="center">
-  <img src="https://github.com/nijnuenna/ECG_Sleep_Analysis_remake/assets/139520513/e24f7e08-72c5-455f-815c-3e25656d4b6b">
+  <img width="755" alt="image (2)" src="https://github.com/nijnuenna/ECG_Sleep_Analysis_/assets/139520513/6eff3073-8c7e-459a-b194-f4ce87a71f63">
+
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/nijnuenna/ECG_Sleep_Analysis_remake/assets/139520513/d3e2ab6c-b8c7-4ac1-8fc8-ef2f46bc717b">
+  <img width="755" alt="image (3)" src="https://github.com/nijnuenna/ECG_Sleep_Analysis_/assets/139520513/48669b21-41a1-4076-9759-cc6c6dcc7ed0">
+
 </p>
 
 
@@ -77,7 +81,8 @@ ___
 
 
 <p align="center">
-  <img src="[https://github.com/nijnuenna/ECG_Sleep_Analysis_remake/assets/139520513/1c25cea6-26b0-4242-8fc8-d3f4375f67e7](https://github.com/nijnuenna/ECG_Sleep_Analysis_remake/assets/139520513/2d576c2f-4c4a-4ab3-9dd0-62806db3d0aa)">
+  <img width="650" alt="image" src="https://github.com/nijnuenna/ECG_Sleep_Analysis_/assets/139520513/7833d46a-f89a-478c-ae29-2f90970f30fb">
+
 </p>
 
 
@@ -119,12 +124,14 @@ If you look closely, you can see that the maximum value of the accuracy of the v
 
 
 <p align="left">
-  <img src="https://github.com/nijnuenna/ECG_Sleep_Analysis_remake/assets/139520513/f31963d5-44e4-46f7-9170-8502a3d5e8fb">
+  <img width="650" alt="image (5)" src="https://github.com/nijnuenna/ECG_Sleep_Analysis_/assets/139520513/ed85d578-a6fd-4ccc-882f-23828a7ea460">
+
 </p>
 
 
 <p align="right">
-  <img src="https://github.com/nijnuenna/ECG_Sleep_Analysis_remake/assets/139520513/2f1d9bf4-f0ad-46ca-b946-57f788bb598d">
+  <img width="650" alt="image (6)" src="https://github.com/nijnuenna/ECG_Sleep_Analysis_/assets/139520513/050fe8ba-8496-4755-90dd-d6fc6a2271b8">
+
 </p>
 
 
